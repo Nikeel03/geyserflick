@@ -36,5 +36,9 @@ GeezaFlick was my solution. **I saw a gap in the market and there is potential**
 
 ---
 
-## 📜 License  
-This project is open-source under the **MIT License** – free to use, modify and share!  
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.  
+You are free to share and adapt this project for personal use, but **commercial use is strictly prohibited**.  
+
+Full license details: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  

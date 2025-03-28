@@ -1,4 +1,4 @@
-# GeezaFlick - Open Source Geyser Automation  
+# GeezaFlick - Passion Project  
 
 ## Prototype: GeezaFlick (a.k.a. GeyserFlick)  
 GeezaFlick is a **home automation prototype** designed for DIY enthusiasts who want to **remotely control their geyser**, like myself. It leverages **ESP32, Arduino UNO and an MG90S/MG996R servo** to physically flick a switch, enabling users to turn their geyser on or off from anywhere. The system is integrated with **Google Firebase** for cloud-based control.  

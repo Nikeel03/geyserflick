@@ -2,13 +2,13 @@
 #include <Firebase_ESP_Client.h>
 
 /* WiFi Credentials */
-#define WIFI_SSID "Pradeep_2.4GEXT"
-#define WIFI_PASSWORD "0836422031"
+#define WIFI_SSID "***"
+#define WIFI_PASSWORD "***"
 
 /* Firebase Credentials */
 #define API_KEY "AIzaSyBAd7nGuGO-_2Q0DSMRJlyiAlf-OItHkgE"
-#define USER_EMAIL "ramharakhnikeel@gmail.com"
-#define USER_PASSWORD "123456"
+#define USER_EMAIL "***"
+#define USER_PASSWORD "***"
 #define DATABASE_URL "https://geezaflick-default-rtdb.firebaseio.com/"
 
 /* Pin Definitions */
